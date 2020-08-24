@@ -1,0 +1,19 @@
+
+body {
+    background: red;
+}
+
+.error-wraper {
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: #E53935;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.close-button {
+    display: inline-block;
+    cursor: pointer;
+    padding-left: 20px;
+}
